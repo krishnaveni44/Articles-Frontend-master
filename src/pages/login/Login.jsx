@@ -45,7 +45,7 @@ export default function Login() {
           Login
         </button>
       </form>
-      <p style={{ margin: "1em", fontSize: "1rem" }}>Sample Login - Username: stark , Password: 123456</p>
+     
     </div>
       </>
     
